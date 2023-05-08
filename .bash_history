@@ -179,3 +179,12 @@ docker rm 9b5e9e4bb3f3
 docker stop 9b5e9e4bb3f3
 docker rm 9b5e9e4bb3f3
 docker ps
+git remote -v
+git
+git remote -v
+ls
+git remote -v
+git remote add origin https://github.com/GeethikaTadisetty/Devopsproject-1.git
+git init
+git add .
+git status
